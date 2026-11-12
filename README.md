@@ -55,6 +55,10 @@ loaded until they reconnect.
 | `Config.Area` | The island centre, and the distances at which a player counts as arriving (`enter`) and leaving (`leave`). |
 | `Config.IslandPeds`, `Config.IslandSound`, `Config.Waves` | Ambient peds, ambient sound and the calmer sea near the island. |
 
+## Author
+
+Made by [DaemonAlex](https://github.com/DaemonAlex) for DelPerroSands.
+
 ## Other DPS scripts
 
 All of these are made for DelPerroSands and run together on one Qbox server. Each one works on
